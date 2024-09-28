@@ -1,10 +1,5 @@
-Firstname,Lastname,MAT_NO,Age,CGPA,Clearance
-
-Israel,Ogundeyin,20cd028259,19,3.98,True
-
-Israel,Adewole,20cd028222,20,3.96,True
-
-DFV,FDSV,EFWGBF13E,213,213.0,True
-
-Israel ,Ofube,1ewdq,23,24.0,True
-
+firstname,lastname,mat_no,age,cgpa,clearance
+israel,ogundeyin,20cd023954,12,5.3,True
+iyi,rgt,423qrdasf32,31,45.24,True
+defw,efwrge,efrsdvzxfe3r24,23,34.3,False
+efg,defr,efge3245t,23,234.23,True
